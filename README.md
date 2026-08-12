@@ -1,4 +1,6 @@
-StreamFlix Content Analytics Project 10
+🎬 StreamFlix Content Analytics Project 10
+
+
 📌 Project Overview
 The StreamFlix Content Analytics Project is an end-to-end data analytics project designed to evaluate streaming performance, subscriber engagement, content metrics, and user feedback for an OTT platform. Using Python (Pandas) for data cleaning and exploration, alongside Power BI for visual analytics, this project delivers actionable business insights to drive subscriber retention and content strategy.
 
